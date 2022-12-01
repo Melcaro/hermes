@@ -1,0 +1,10 @@
+{
+  "name": "Hermes",
+  "description": "messages and attachment transfer automation",
+  "author": "Melcaro",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
